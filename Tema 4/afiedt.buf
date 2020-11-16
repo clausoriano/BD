@@ -1,0 +1,3 @@
+select vnt_clt,sum(vnt_precio) from ventas group by vnt_clt
+
+/

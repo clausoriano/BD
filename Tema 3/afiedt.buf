@@ -1,0 +1,2 @@
+select art_col from articulos
+/
